@@ -17,7 +17,7 @@
 - It is Fully responsive.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/shortening-api-master/blob/main/design/desktop-design.jpg">
 
 ## Demo
 
